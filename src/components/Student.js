@@ -1,5 +1,5 @@
 import './student.css';
-import {useState} from 'react'
+import React,{useState} from 'react'
 
 function Student() {
 const [fullName, setFullName] = useState("")

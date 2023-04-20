@@ -1,14 +1,15 @@
 
 import React from 'react';
+import Table from './components/Table';
 
-import Student from './components/Student';
+// import Student from './components/Student';
 
 function App() {
 
   return (
     <div >
     
- <Student />
+<Table />
 
     </div>
   );
