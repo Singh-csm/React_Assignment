@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project's deployed Link: [netllify](https://student-component.netlify.app/).
+👉 This project's deployed Link: [netllify](https://student-component.netlify.app/).
 
 ## Available Scripts
 
